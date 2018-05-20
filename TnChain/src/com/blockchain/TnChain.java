@@ -10,6 +10,12 @@ import com.blockchain.transaction.TransactionInput;
 import com.blockchain.transaction.TransactionOutput;
 import com.blockchain.transaction.Wallet;
 
+/**
+ * First Tunisia chain.
+ * 
+ * @author Sabri
+ *
+ */
 public class TnChain {
 
 	public static ArrayList<Block> blockchain = new ArrayList<Block>();
